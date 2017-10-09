@@ -1,2 +1,2 @@
 # sharedCar
-a trusted and shared car
+a trusted and shared car APK
